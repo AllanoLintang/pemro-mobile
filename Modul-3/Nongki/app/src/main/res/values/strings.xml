@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Nongki</string>
+
+    <string-array name="data_name">
+        <item>Waterfront City</item>
+        <item>Kopi Itah</item>
+        <item>Sky Cafe</item>
+        <item>Kopi Tala</item>
+        <item>Wadah Rizal</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Siringnya Muara Teweh, tempat ini terletak di pinggir sungai Barito dan cocok untuk bersantai bersama teman atau keluarga sambil melihat kapal-kapal berlalu lalang</item>
+        <item>Terletak di Taman Remaja, cafe ini memiliki vibes yang cozy dan cukup sunyi sehingga cocok untuk anda yang mencari ketenangan</item>
+        <item>Cafe ini berada diatas bukit Koyem, dari cafe ini anda dapat melihat pemandangan seluruh kota Muara Teweh sambil menyeruput kopi atau menyantap Indomie yang disediakan</item>
+        <item>Go-to spotnya anak-anak remaja di Muara Teweh. Interiornya yang elegan dan tempatnya yang luas membuat cafe ini terasa mewah meski harganya masih ramah dikantong</item>
+        <item>wadah rizal</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>Nikmati sungai Barito</item>
+        <item>Rasakan sensasi kopi yang nikmat</item>
+        <item>Hirup udara segar diatas bukit</item>
+        <item>Pengalaman yang mewah</item>
+        <item>Anomali Pelaut yang jarang pulang</item>
+    </string-array>
+    <string-array name="data_image">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+        <item>@drawable/image4</item>
+        <item>@drawable/image5</item>
+    </string-array>
+    <string-array name="data_link">
+        <item>https://maps.app.goo.gl/GSydEPrwvU45KrDi7</item>
+        <item>https://maps.app.goo.gl/ubHmrMkbGAY1Bw9V7</item>
+        <item>https://maps.app.goo.gl/SCfmQZ6auYmjnfyE6</item>
+        <item>https://maps.app.goo.gl/DT88imtzupLPVMt19</item>
+        <item>https://maps.app.goo.gl/1Kx4uLh6rCL4P9LP7</item>
+    </string-array>
+
+</resources>
